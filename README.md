@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Speccthu/Speccthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm John 👋
 
-Here are some ideas to get you started:
+I am a Junior Java Developer based in Greece, currently working as an IT Administrator and transitioning into backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Skills
+- Java (OOP, Collections, Problem Solving)
+- SQL (basic)
+- Spring Boot (learning)
+
+## 📌 Projects
+- 🧩 Sudoku Solver (Java, recursion, optimization)
+
+## 🎯 Goals
+- Become a backend Java developer
+- Build scalable APIs
+- Work on real-world systems
+
 -->
